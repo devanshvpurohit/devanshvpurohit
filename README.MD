@@ -16,8 +16,8 @@ Feel free to explore my repositories, and reach out if you’d like to collabora
 
 <br>
 
-🖥️ Portfolio → [LinkedIn](https://www.linkedin.com/)
-✉️ Contact → **[your-email@example.com](mailto:your-email@example.com)**
+🖥️ Portfolio → [LinkedIn](https://www.linkedin.com/in/devansh-v-purohit-b38b64363)
+✉️ Contact → **[devanshvpurohit@gmail.com](mailto:devanshvpurohit@gmail.com)**
 🧠 Currently Learning → **Machine Learning | IoT Systems | Cybersecurity**
 
 ---
@@ -26,9 +26,8 @@ Feel free to explore my repositories, and reach out if you’d like to collabora
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)]https://www.linkedin.com/in/devansh-v-purohit-b38b64363)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/devanshvpurohit)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord\&logoColor=white)](https://discord.com/)
 
 </div>
 
