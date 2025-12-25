@@ -1,77 +1,97 @@
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Devansh!;AI+%7C+IoT+%7C+Cybersecurity;Building+Intelligent+%26+Secure+Systems" />
+</h1>
 
-# Hi there, I'm Devansh! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=header"/>
+</p>
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60%" />
+</p>
 
-I'm a third-year **B.Tech student specializing in Artificial Intelligence and Machine Learning**, with a growing passion for **AI-driven systems, Internet of Things (IoT), and Cybersecurity**. I enjoy building intelligent, connected, and secure solutions that solve real-world problems.
+---
 
-I’m currently focused on strengthening my understanding of **machine learning algorithms, deep learning architectures, IoT-based data systems, and cybersecurity fundamentals**, while applying them through hands-on projects and experimentation.
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=About+Me" />
+</h2>
 
-🔭 I actively work on projects involving **machine learning models, data analysis, intelligent automation, and sensor-driven IoT applications**.
-🛡️ I am also exploring **cybersecurity concepts** such as secure system design, data privacy, threat detection, and safe deployment of AI models.
-🤝 Open to collaboration, hackathons, and **open-source contributions**, especially in **AI, IoT, and security-focused projects**.
+I’m a third-year **B.Tech student specializing in Artificial Intelligence and Machine Learning**, with a strong passion for **AI-driven systems, Internet of Things (IoT), and Cybersecurity**. I enjoy designing **intelligent, connected, and secure solutions** that bridge data, devices, and real-world impact.
 
-Feel free to explore my repositories, and reach out if you’d like to collaborate, brainstorm ideas, or discuss tech trends in AI, IoT, or Cybersecurity.
+I’m currently deepening my understanding of **machine learning algorithms, deep learning architectures, IoT-based data pipelines, and cybersecurity fundamentals**, with a strong focus on hands-on implementation and real-world use cases.
 
-<br>
+🔭 Working on **machine learning models, intelligent automation, data-driven applications, and sensor-based IoT systems**  
+🛡️ Exploring **secure system design, data privacy, threat detection, and safe AI model deployment**  
+🤝 Open to **collaborations, hackathons, and open-source contributions**, especially in **AI, IoT, and Cybersecurity**
 
-🖥️ Portfolio → [LinkedIn](https://www.linkedin.com/in/devansh-v-purohit-b38b64363)
-✉️ Contact → **[devanshvpurohit@gmail.com](mailto:devanshvpurohit@gmail.com)**
-🧠 Currently Learning → **Machine Learning | IoT Systems | Cybersecurity**
+Feel free to explore my repositories or reach out to collaborate, brainstorm ideas, or discuss emerging tech trends.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
+
+### 📬 Connect With Me
+- 🖥️ Portfolio → [LinkedIn](https://www.linkedin.com/in/devansh-v-purohit-b38b64363)
+- ✉️ Email → **devanshvpurohit@gmail.com**
+- 🧠 Currently Learning → **Machine Learning | IoT Systems | Cybersecurity**
 
 ---
 
 ## 🌐 Socials
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)]https://www.linkedin.com/in/devansh-v-purohit-b38b64363)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github\&logoColor=white)](https://github.com/devanshvpurohit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-v-purohit-b38b64363)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/devanshvpurohit)
 
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
 
 ## 💻 Tech Stack
 
 <div align="center">
 
 ### 🔹 Programming & Web
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🔹 AI / ML / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-### 🔹 IoT & Security
-
+### 🔹 IoT & Cybersecurity
 ![IoT](https://img.shields.io/badge/IoT-Connected%20Systems-blue?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Secure%20Systems-red?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Secure%20Architectures-red?style=for-the-badge)
 
-### 🔹 Tools & Databases
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+### 🔹 Tools & Platforms
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
 
+## 📊 GitHub Stats
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>  
@@ -82,19 +102,37 @@ Feel free to explore my repositories, and reach out if you’d like to collabora
 
 ---
 
-### 🚀 What I’m Working Towards
+### 🧠 Focus Areas
+```diff
++ Artificial Intelligence Systems
++ IoT-Based Intelligent Applications
++ Secure & Privacy-Aware Architectures
++ Real-Time Data Intelligence
+````
 
-* 🔐 Building **secure AI & IoT systems**
-* 🤖 Applying **AI for real-time data intelligence**
-* 🌐 Developing **scalable, privacy-aware applications**
-* 🧠 Preparing for **AI / ML / Cybersecurity roles**
+---
+
+## 🏆 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devanshvpurohit&theme=onestar&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=devanshvpurohit\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
+  <img src="https://visitcount.itsvg.in/api?id=devanshvpurohit&icon=0&color=0"/>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
+</p>
+```
 
 ---
