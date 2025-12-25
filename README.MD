@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Devansh!;AI+%7C+IoT+%7C+Cybersecurity;Building+Intelligent+%26+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=75&lines=Hi+there%2C+I'm+Devansh!;AI+%7C+IoT+%7C+Cybersecurity;Building+Intelligent+%26+Secure+Systems" />
 </h1>
 
 <p align="center">
