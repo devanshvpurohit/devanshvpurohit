@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Devansh+%F0%9F%91%8B;AI+Engineer+%7C+IoT+Developer+%7C+Security+Enthusiast;Building+Intelligent+%26+Secure+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devanshvpurohit/devanshvpurohit/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation" />
+</div>
 
 ---
 
@@ -15,7 +18,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Third-Year+B.Tech+Student;AI+%26+Machine+Learning+Specialist;IoT+%26+Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="About me" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 I'm a **third-year B.Tech student specializing in Artificial Intelligence and Machine Learning**, passionate about creating **intelligent, connected, and secure solutions** that make a real-world impact.
 
@@ -40,7 +45,14 @@ open_to:
   - Innovative Project Ideas
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -50,7 +62,7 @@ open_to:
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,sklearn,mysql,git,linux,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,sklearn,mysql,mongodb,git,docker,linux,vscode&theme=dark&perline=8" />
 </p>
 
 ### 🧠 AI/ML & Data Science
@@ -86,9 +98,9 @@ open_to:
 ### 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
- 
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
