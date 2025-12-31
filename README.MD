@@ -1,6 +1,6 @@
-
+````html
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Devansh!;AI+%7C+IoT+%7C+Cybersecurity;Building+Intelligent+%26+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Devansh!;AI+%7C+IoT+%7C+Cybersecurity;Building+Intelligent+%26+Secure+Systems" />
 </h1>
 
 <p align="center">
@@ -17,15 +17,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=About+Me" />
 </h2>
 
-I’m a third-year **B.Tech student specializing in Artificial Intelligence and Machine Learning**, with a strong passion for **AI-driven systems, Internet of Things (IoT), and Cybersecurity**. I enjoy designing **intelligent, connected, and secure solutions** that bridge data, devices, and real-world impact.
+I’m a **third-year B.Tech student specializing in Artificial Intelligence and Machine Learning**, with a strong passion for **AI-driven systems, Internet of Things (IoT), and Cybersecurity**.
 
-I’m currently deepening my understanding of **machine learning algorithms, deep learning architectures, IoT-based data pipelines, and cybersecurity fundamentals**, with a strong focus on hands-on implementation and real-world use cases.
+I enjoy building **intelligent, connected, and secure solutions** that bridge **data, devices, and real-world impact**. My learning approach is highly hands-on, focusing on real-world problem solving and practical deployment.
 
 🔭 Working on **machine learning models, intelligent automation, data-driven applications, and sensor-based IoT systems**  
-🛡️ Exploring **secure system design, data privacy, threat detection, and safe AI model deployment**  
-🤝 Open to **collaborations, hackathons, and open-source contributions**, especially in **AI, IoT, and Cybersecurity**
-
-Feel free to explore my repositories or reach out to collaborate, brainstorm ideas, or discuss emerging tech trends.
+🛡️ Exploring **secure system design, privacy-aware architectures, threat detection, and safe AI deployment**  
+🤝 Open to **collaborations, hackathons, research, and open-source contributions**
 
 ---
 
@@ -34,7 +32,7 @@ Feel free to explore my repositories or reach out to collaborate, brainstorm ide
 </p>
 
 ### 📬 Connect With Me
-- 🖥️ Portfolio → [LinkedIn](https://www.linkedin.com/in/devansh-v-purohit-b38b64363)
+- 🖥️ LinkedIn → [Devansh V Purohit](https://www.linkedin.com/in/devansh-v-purohit-b38b64363)
 - ✉️ Email → **devanshvpurohit@gmail.com**
 - 🧠 Currently Learning → **Machine Learning | IoT Systems | Cybersecurity**
 
@@ -94,15 +92,15 @@ Feel free to explore my repositories or reach out to collaborate, brainstorm ide
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" height="170px"/>  
-<img src="https://nirzak-streak-stats.vercel.app/?user=devanshvpurohit&theme=github_dark&hide_border=false" height="170px"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshvpurohit&theme=github_dark&hide_border=false&layout=compact" height="170px"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&theme=github_dark&include_all_commits=true&count_private=true" height="170px"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=devanshvpurohit&theme=github_dark" height="170px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshvpurohit&theme=github_dark&layout=compact" height="170px"/>
 
 </div>
 
 ---
 
-### 🧠 Focus Areas
+## 🧠 Focus Areas
 ```diff
 + Artificial Intelligence Systems
 + IoT-Based Intelligent Applications
@@ -112,9 +110,21 @@ Feel free to explore my repositories or reach out to collaborate, brainstorm ide
 
 ---
 
-## Activity
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+</p>
 
+## 🎮 Activity Zone
 
+### 🟡 Pac-Man Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devanshvpurohit/devanshvpurohit/output/pacman-contribution-graph-dark.svg" />
+</p>
+
+---
+
+### 🐍 Snake Chasing My Commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -131,4 +141,3 @@ Feel free to explore my repositories or reach out to collaborate, brainstorm ide
 </p>
 ```
 
----
