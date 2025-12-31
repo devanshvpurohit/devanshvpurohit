@@ -50,7 +50,7 @@ open_to:
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,sklearn,mysql,mongodb,git,docker,linux,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,sklearn,mysql,git,linux,vscode&theme=dark&perline=8" />
 </p>
 
 ### 🧠 AI/ML & Data Science
