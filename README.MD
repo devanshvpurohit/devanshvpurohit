@@ -1,64 +1,84 @@
-<h1 align="center">Devansh V. Purohit</h1>
-<h3 align="center">AI & Machine Learning | IoT Systems | Cybersecurity</h3>
+<h1 align="center">
+  Devansh V. Purohit
+</h1>
+
+<h3 align="center">
+  AI & Machine Learning • IoT Systems • Cybersecurity
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devansh-v-purohit-b38b64363">LinkedIn</a> •
-  <a href="mailto:devanshvpurohit@gmail.com">Email</a> •
-  <a href="https://github.com/devanshvpurohit">GitHub</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/devansh-v-purohit-b38b64363">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:devanshvpurohit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/devanshvpurohit">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## Profile
+## 👋 Profile
 
 I am a **third-year B.Tech student specializing in Artificial Intelligence and Machine Learning**, with strong interests in **intelligent systems, Internet of Things (IoT), and cybersecurity**.
 
-My focus lies in designing and building **scalable, data-driven, and secure solutions** that integrate machine learning with real-world systems. I emphasize **hands-on development, system-level thinking, and practical deployment**.
+I focus on building **scalable, data-driven, and secure solutions** that integrate machine learning with real-world systems. My approach emphasizes **hands-on engineering, system-level design, and practical deployment**.
 
-I am actively seeking opportunities for **collaboration, research, hackathons, and open-source contributions**.
+🔹 Open to **research collaborations, internships, hackathons, and open-source contributions**.
 
 ---
 
-## Areas of Interest
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 🎯 Areas of Interest
 
 - Artificial Intelligence & Machine Learning Systems  
-- Intelligent IoT Applications and Sensor Networks  
-- Secure and Privacy-Aware System Architectures  
+- Intelligent IoT and Sensor-Based Applications  
+- Secure and Privacy-Aware Architectures  
 - Data Analytics and Real-Time Intelligence  
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Programming & Web Technologies
-- Python, Java, C  
-- JavaScript, HTML5, CSS3  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,mysql,mongodb,git,docker&perline=6" />
+</p>
 
-### AI / Machine Learning
-- TensorFlow, PyTorch  
-- scikit-learn  
-- NumPy, Pandas  
-
-### Databases & Platforms
-- MySQL, MongoDB  
-- Git, Docker  
-
-### Domains
-- Internet of Things (IoT)  
-- Cybersecurity Fundamentals  
+**Programming:** Python, Java, C, JavaScript  
+**AI / ML:** TensorFlow, PyTorch, scikit-learn, NumPy, Pandas  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, Docker  
+**Domains:** IoT Systems, Cybersecurity Fundamentals  
 
 ---
 
-## Current Focus
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
-- Developing machine learning models for real-world datasets  
-- Building sensor-driven IoT systems  
-- Exploring secure system design and threat-aware architectures  
-- Learning best practices for responsible and safe AI deployment  
+## 🚀 Current Focus
+
+- Developing machine learning models for applied problem domains  
+- Building sensor-driven and connected IoT systems  
+- Studying secure system design and threat-aware architectures  
+- Learning responsible and safe AI deployment practices  
 
 ---
 
-## GitHub Analytics
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&theme=github_dark&include_all_commits=true&count_private=true" height="160"/>
@@ -71,14 +91,14 @@ I am actively seeking opportunities for **collaboration, research, hackathons, a
 
 ---
 
-## Contribution Activity
+## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=devanshvpurohit&color=0"/>
+  <img src="https://visitcount.itsvg.in/api?id=devanshvpurohit&color=0" />
 </p>
