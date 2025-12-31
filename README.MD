@@ -1,6 +1,4 @@
- 🌌 COMPLETE DARK / NEON CYBERPUNK README
 
-html
 <!-- ===================== CYBERPUNK HEADER ===================== -->
 
 <h1 align="center">
