@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Devansh+%F0%9F%91%8B;AI+Engineer+%7C+IoT+Developer+%7C+Security+Enthusiast;Building+Intelligent+%26+Secure+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devanshvpurohit/devanshvpurohit/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation" />
-</div>
 
 ---
 
