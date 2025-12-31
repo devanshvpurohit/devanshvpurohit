@@ -1,9 +1,7 @@
-<h1 align="center">
-  Devansh V. Purohit
-</h1>
+<h1 align="center">Devansh V. Purohit</h1>
 
 <h3 align="center">
-  AI & Machine Learning • IoT Systems • Cybersecurity
+  Artificial Intelligence • IoT Systems • Cybersecurity
 </h3>
 
 <p align="center">
@@ -26,11 +24,15 @@
 
 ## 👋 Profile
 
-I am a **third-year B.Tech student specializing in Artificial Intelligence and Machine Learning**, with strong interests in **intelligent systems, Internet of Things (IoT), and cybersecurity**.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-573c8c8e-6f70-4c2f-9b2b-6c5e3c6d1f8b.gif" width="420"/>
+</p>
 
-I focus on building **scalable, data-driven, and secure solutions** that integrate machine learning with real-world systems. My approach emphasizes **hands-on engineering, system-level design, and practical deployment**.
+I am a **third-year B.Tech student specializing in Artificial Intelligence and Machine Learning**, with strong interests in **AI-driven systems, Internet of Things (IoT), and cybersecurity**.
 
-🔹 Open to **research collaborations, internships, hackathons, and open-source contributions**.
+I focus on building **scalable, intelligent, and secure solutions** that bridge **data, algorithms, and real-world systems**. My approach emphasizes **hands-on development, system-level thinking, and practical deployment**.
+
+🔹 Open to **internships, research collaborations, hackathons, and open-source contributions**.
 
 ---
 
@@ -38,26 +40,57 @@ I focus on building **scalable, data-driven, and secure solutions** that integra
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-## 🎯 Areas of Interest
+## 🤖 Artificial Intelligence Focus
 
-- Artificial Intelligence & Machine Learning Systems  
-- Intelligent IoT and Sensor-Based Applications  
-- Secure and Privacy-Aware Architectures  
-- Data Analytics and Real-Time Intelligence  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750065-1b7a3f1a-6b8b-4b4f-9b77-2cbe8e62cfe8.gif" width="400"/>
+</p>
+
+- Machine Learning model development and evaluation  
+- Data preprocessing, feature engineering, and analytics  
+- Applied deep learning using TensorFlow and PyTorch  
+- Responsible AI, model reliability, and deployment awareness  
+
+**Domains of interest:**  
+Predictive analytics, intelligent automation, pattern recognition, and real-world ML applications.
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 🌐 Internet of Things (IoT) Focus
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750229-5a2e8b2c-78b5-46a6-8e76-88a90b1c8c2a.gif" width="400"/>
+</p>
+
+- Sensor-based data acquisition and processing  
+- Intelligent IoT system design and architecture  
+- Edge-to-cloud data flow and analytics  
+- Secure and reliable device communication  
+
+**Application areas:**  
+Smart environments, real-time monitoring systems, and data-driven connected devices.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,mysql,mongodb,git,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,mysql,mongodb,git,docker&perline=6"/>
 </p>
 
 **Programming:** Python, Java, C, JavaScript  
 **AI / ML:** TensorFlow, PyTorch, scikit-learn, NumPy, Pandas  
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, Docker  
-**Domains:** IoT Systems, Cybersecurity Fundamentals  
+**Domains:** AI Systems, IoT Applications, Cybersecurity Fundamentals  
 
 ---
 
@@ -67,10 +100,10 @@ I focus on building **scalable, data-driven, and secure solutions** that integra
 
 ## 🚀 Current Focus
 
-- Developing machine learning models for applied problem domains  
-- Building sensor-driven and connected IoT systems  
-- Studying secure system design and threat-aware architectures  
-- Learning responsible and safe AI deployment practices  
+- Applied machine learning for real-world datasets  
+- Intelligent IoT system development  
+- Secure system design and threat-aware architectures  
+- Best practices for safe and responsible AI deployment  
 
 ---
 
@@ -91,14 +124,14 @@ I focus on building **scalable, data-driven, and secure solutions** that integra
 
 ---
 
-## 🧩 Contribution Graph
+## 🧩 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=devanshvpurohit&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=devanshvpurohit&color=0"/>
 </p>
