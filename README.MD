@@ -172,18 +172,6 @@ open_to:
 ---
 
 <h2 align="center">
-  🎮 Contribution Activity
-</h2>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshvpurohit&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00F7FF&line=6A00FF&point=FFFFFF&area=true&area_color=00F7FF" width="95%" />
-</div>
-
----
-
-<h2 align="center">
   💭 Random Dev Quote
 </h2>
 
