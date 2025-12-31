@@ -22,15 +22,15 @@
 
 ---
 
-## Profile
+## 👤 Profile
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749443-573c8c8e-6f70-4c2f-9b2b-6c5e3c6d1f8b.gif" width="380"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-573c8c8e-6f70-4c2f-9b2b-6c5e3c6d1f8b.gif" width="420"/>
 </p>
 
-I am a **third-year B.Tech student specializing in Artificial Intelligence and Machine Learning**, with academic and practical interests in **intelligent systems, Internet of Things (IoT), and cybersecurity**.
+I am a **third-year B.Tech student specializing in Artificial Intelligence and Machine Learning**, with strong interests in **AI-driven systems, Internet of Things (IoT), and cybersecurity**.
 
-My work focuses on building **data-driven, connected, and secure systems**, combining machine learning with real-world hardware and software environments. I prioritize **clean design, reliability, and practical deployment**.
+My work focuses on building **intelligent, connected, and secure solutions** that integrate data, algorithms, and real-world systems. I emphasize **practical engineering, clean system design, and real-world deployment**.
 
 ---
 
@@ -38,37 +38,22 @@ My work focuses on building **data-driven, connected, and secure systems**, comb
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-## Artificial Intelligence Focus
+## 🤖 Artificial Intelligence & Machine Learning
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750065-1b7a3f1a-6b8b-4b4f-9b77-2cbe8e62cfe8.gif" width="360"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750065-1b7a3f1a-6b8b-4b4f-9b77-2cbe8e62cfe8.gif" width="380"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750105-9a4bde6b-9a6d-4e70-9b3c-6e22b11cf12c.gif" width="360"/>
 </p>
 
 - Machine learning model development and evaluation  
 - Data preprocessing, feature engineering, and analytics  
-- Applied deep learning using TensorFlow and PyTorch  
-- Awareness of model robustness, ethics, and responsible AI  
+- Applied deep learning with TensorFlow and PyTorch  
+- Model robustness, interpretability, and responsible AI awareness  
 
-**Application Areas:** predictive analytics, intelligent automation, pattern recognition
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
-
-## Internet of Things (IoT)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750229-5a2e8b2c-78b5-46a6-8e76-88a90b1c8c2a.gif" width="360"/>
-</p>
-
-- Sensor integration and real-time data collection  
-- Edge-to-cloud system design  
-- Intelligent data processing pipelines  
-- Secure communication between devices  
-
-**Application Areas:** smart environments, monitoring systems, connected devices
+**Interest Areas:** predictive analytics, intelligent automation, applied ML systems
 
 ---
 
@@ -76,7 +61,47 @@ My work focuses on building **data-driven, connected, and secure systems**, comb
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-## Technical Skills
+## 🌐 Internet of Things (IoT)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750229-5a2e8b2c-78b5-46a6-8e76-88a90b1c8c2a.gif" width="380"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750295-66c2c75f-5bb2-4e93-b0cb-fc1e4c86c8fd.gif" width="360"/>
+</p>
+
+- Sensor integration and real-time data acquisition  
+- Edge-to-cloud system architectures  
+- Intelligent processing of IoT-generated data  
+- Secure and reliable device communication  
+
+**Application Areas:** smart environments, monitoring systems, connected infrastructure
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 🔐 Cybersecurity & Secure Systems
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750378-1c3c8d96-7d93-4a56-91e5-2bdf5e42c58f.gif" width="360"/>
+</p>
+
+- Secure system design principles  
+- Privacy-aware architectures  
+- Threat modeling and risk awareness  
+- Security considerations in AI and IoT deployments  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,mysql,mongodb,git,docker&perline=6"/>
@@ -86,7 +111,7 @@ My work focuses on building **data-driven, connected, and secure systems**, comb
 **AI / ML:** TensorFlow, PyTorch, scikit-learn, NumPy, Pandas  
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, Docker  
-**Domains:** AI Systems, IoT Applications, Cybersecurity Fundamentals  
+**Domains:** AI Systems, IoT Applications, Cybersecurity  
 
 ---
 
@@ -94,12 +119,16 @@ My work focuses on building **data-driven, connected, and secure systems**, comb
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-## Current Focus
+## 🚀 Current Focus
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750462-78e7dbe5-b7ae-4c28-bfa7-36f3d7a1d16f.gif" width="360"/>
+</p>
 
 - Applied machine learning on real-world datasets  
-- Development of intelligent IoT systems  
-- Secure system design and threat-aware architectures  
-- Safe and responsible AI practices  
+- Intelligent IoT system development  
+- Secure and scalable system architectures  
+- Responsible and safe AI practices  
 
 ---
 
@@ -107,7 +136,7 @@ My work focuses on building **data-driven, connected, and secure systems**, comb
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&theme=github_dark&include_all_commits=true&count_private=true" height="160"/>
