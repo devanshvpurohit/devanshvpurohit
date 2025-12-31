@@ -2,10 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Devansh+%F0%9F%91%8B;AI+Engineer+%7C+IoT+Developer+%7C+Security+Enthusiast;Building+Intelligent+%26+Secure+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
----
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22">
   Tech Stack
 </h2>
 
