@@ -116,21 +116,20 @@ I enjoy building **intelligent, connected, and secure solutions** that bridge **
 
 ## 🎮 Activity Zone
 
-### 🟡 Pac-Man Eating My Contributions
+### 🎮 Activity Zone
 
+### 🟡 Pac-Man Chasing My Commits
 <p align="center">
   <img src="https://raw.githubusercontent.com/devanshvpurohit/devanshvpurohit/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 ---
 
-### 🐍 Snake Chasing My Commits
-
+### 🐍 Snake Devouring My Commit History
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=devanshvpurohit&icon=0&color=0"/>
