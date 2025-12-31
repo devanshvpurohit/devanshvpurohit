@@ -2,21 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Devansh+%F0%9F%91%8B;AI+Engineer+%7C+IoT+Developer+%7C+Security+Enthusiast;Building+Intelligent+%26+Secure+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devanshvpurohit/devanshvpurohit/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution animation" />
-</div>
-
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  About Me
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
+  Tech Stack
 </h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Third-Year+B.Tech+Student;AI+%26+Machine+Learning+Specialist;IoT+%26+Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="About me" />
-</p>
 
 <table>
 <tr>
@@ -49,6 +40,10 @@ open_to:
 <td width="45%" valign="top">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="AI Brain">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkOGM4ZjZlNzM0ZjY3YjZlNzM0ZjY3YjZlNzM0ZjY3YjZlNzM0ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Circuit Board">
 
 </td>
 </tr>
@@ -180,22 +175,6 @@ open_to:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devanshvpurohit&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
 </p>
-
----
-
-<h2 align="center">
-  🎮 Contribution Activity
-</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devanshvpurohit/devanshvpurohit/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man eating contributions" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devanshvpurohit&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00F7FF&line=6A00FF&point=FFFFFF&area=true&area_color=00F7FF" width="95%" />
-</div>
 
 ---
 
