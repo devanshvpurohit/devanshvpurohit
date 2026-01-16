@@ -1,195 +1,112 @@
-html
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=900&lines=Booting+System...;Devansh+Purohit+%7C+AI+Systems+Engineer;IoT+%7C+Cybersecurity+%7C+Intelligent+Automation;SYSTEM+ONLINE+%E2%9C%94" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Devansh+%F0%9F%91%8B;AI+Engineer+%7C+IoT+Developer;Security+Enthusiast;Building+Intelligent+%26+Secure+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="70%" />
-</p>
-
-<p align="center">
-  <b>Third-Year B.Tech · Artificial Intelligence & Machine Learning</b><br/>
-  Engineering intelligent, connected & secure systems
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Third%20Year%20B.Tech-blue?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/devanshvpurohit?label=Followers&style=flat-square&color=00F7FF" />
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
-
-```yaml
-identity:
-  name: Devansh Purohit
-  role: AI & Systems Engineer
-
-core_domains:
-  - Artificial Intelligence
-  - Internet of Things
-  - Cybersecurity Engineering
-  - Real-Time Data Intelligence
-
-engineering_philosophy:
-  - End-to-end system thinking
-  - Security by default
-  - AI must survive the real world
-````
-
-I don’t just build models —
-I **engineer systems** where **AI, hardware, data, and security converge**.
-
----
-
-## 🕶️ CYBERPUNK VISUAL MOOD (REFERENCE)
-
-> GitHub does not render iframes.
-> Included intentionally as **design inspiration**.
-
-```html
-<iframe 
-  src="https://assets.pinterest.com/ext/embed.html?id=14707136281271729"
-  height="714"
-  width="345"
-  frameborder="0"
-  scrolling="no">
-</iframe>
-```
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45%" />
-</p>
-
-**Design Language**
-
-* Dark terminal-first UI
-* Neon cyan / green highlights
-* Intelligence · surveillance · control aesthetics
-
----
-
-## ⚡ CORE FOCUS AREAS
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="70"/><br/>
-  <b>Artificial Intelligence</b><br/>
-  <sub>Deep Learning · Edge AI</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="70"/><br/>
-  <b>Internet of Things</b><br/>
-  <sub>Embedded & Sensor Systems</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70"/><br/>
-  <b>Cybersecurity</b><br/>
-  <sub>Secure Architectures</sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70"/><br/>
-  <b>Data Intelligence</b><br/>
-  <sub>Real-Time Analytics</sub>
-</td>
-</tr>
+## 💫 About Me
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p align="left">
+        I'm a <b>Third-Year B.Tech Student</b> specializing in <b>Artificial Intelligence and Machine Learning</b>. I bridge the gap between hardware and software by creating secure, AI-powered IoT ecosystems. 
+      </p>
+      <p align="left">
+        🔭 <b>Current Project:</b> Real-time anomaly detection for IoT security.<br>
+        🌱 <b>Learning:</b> Advanced Neural Networks & Cloud Deployment.<br>
+        💬 <b>Ask me about:</b> Python, IoT protocols, or the latest AI trends.<br>
+        ⚡ <b>Fun Fact:</b> I enjoy breaking things (digitally) just to learn how to fix them!
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnBqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqZ3BqJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="250">
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🚀 FEATURED PROJECTS // HIGH SIGNAL
+## 🛠️ Tech Stack & Skills
 
-### 🔥 LEXIGUARDAI — Compliance Intelligence Engine
+### 🧠 Intelligence & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,mysql&perline=5" />
+</p>
 
-**AI-powered contract & content rights analysis**
+### 🌐 Connectivity & Security
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,docker&perline=5" />
+</p>
 
-* Clause classification using LLMs
-* Legal risk scoring & visualization
-* Designed for OTT & licensing workflows
-* Privacy-first system design
-
-**Stack:** Gemini · NLP · Streamlit · Secure Pipelines
-
----
-
-### 🌱 VARUNA — Autonomous Environmental Intelligence
-
-**IoT + AI powered environmental monitoring**
-
-* ESP32-based sensor mesh
-* AI-stabilized AQI/GPI (EMA filtered)
-* Fully autonomous (no manual thresholds)
-* Live dashboards & alerts
-
-**Stack:** IoT · Edge AI · Streamlit · Analytics
-
----
-
-### 📄 NODENS — AI Terms & Conditions Decoder
-
-**Turning legal documents into human-readable insight**
-
-* Clause simplification & red-flag detection
-* Risk & bias visualization
-* Built for MSMEs & individuals
-
-**Stack:** NLP · AI Summarization · UX Design
-
----
-
-### 🚘 EDGE-OCR — Intelligent License Plate Recognition
-
-**Low-latency vehicle intelligence**
-
-* OpenCV + Deep Learning OCR
-* Edge-optimized inference
-* Real-time detection pipeline
-
-**Stack:** Computer Vision · Embedded AI
-
----
-
-## 🛠️ TECH STACK // CYBER LOADED
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,tensorflow,pytorch,arduino,raspberrypi,linux,git,mysql,vscode,jupyter&theme=dark" />
+### 💻 Web & Core Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,vscode&perline=6" />
 </p>
 
 ---
 
-## 📊 SYSTEM TELEMETRY
+## 📊 My GitHub Journey
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshvpurohit&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshvpurohit&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=devanshvpurohit&theme=react-dark&hide_border=true" />
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=devanshvpurohit&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
 </p>
 
 ---
 
-## 🌐 CONNECT // OPEN CHANNEL
+## 🎯 Strategic Focus Areas
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJuejZueXNueXNueXNueXNueXNueXNueXNueXNueXNueXNueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8Xge8eLpOm6shS/giphy.gif" width="60" /><br/>
+      <b>AI Architecture</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpuejZueXNueXNueXNueXNueXNueXNueXNueXNueXNueXNueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxPucSUIUvK/giphy.gif" width="60" /><br/>
+      <b>Edge Computing</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpuejZueXNueXNueXNueXNueXNueXNueXNueXNueXNueXNueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UrXv60o3bWv9i3Gf0A/giphy.gif" width="60" /><br/>
+      <b>Cyber Sec</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3puejZueXNueXNueXNueXNueXNueXNueXNueXNueXNueXNueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BkNrGhy4DKnbD9u/giphy.gif" width="60" /><br/>
+      <b>Cloud Ops</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="left">
   <a href="https://www.linkedin.com/in/devansh-v-purohit-b38b64363">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devanshvpurohit@gmail.com">
-    <img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/devanshvpurohit">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devanshvpurohit&label=SYSTEM+VIEWS&color=39FF14&style=for-the-badge"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devanshvpurohit&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=39FF14&center=true&vCenter=true&width=800&lines=Build+systems+that+think.;Secure+them+by+default.;Welcome+to+the+machine+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Innovating+at+the+Edge!+%F0%9F%9A%80;Let's+build+something+secure+and+smart!+%F0%9F%A4%9D" />
 </p>
-
