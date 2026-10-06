@@ -44,22 +44,6 @@ I enjoy **building real-world projects**, experimenting with emerging tech, and 
 
 ---
 
-## 💼 Experience & Leadership
-
-<div align="center">
-
-| Role                   | Organization    | Duration            |
-| ---------------------- | --------------- | ------------------- |
-| 🚀 Founder             | **Bazinga**     | Nov 2025 – Present  |
-| 🤝 Corporate Relations | **E-Cell IARE** | Present             |
-| 🏗️ Founder            | **Dhanone3**    | Dec 2023 – Present  |
-| 🎤 Coordinator         | **TEDxIARE**    | Feb 2025 – Apr 2025 |
-| 📊 Business Analyst    | **e-DAM**       | Dec 2023 – Aug 2024 |
-
-</div>
-
----
-
 ## 🛠️ Projects
 
 <table>
