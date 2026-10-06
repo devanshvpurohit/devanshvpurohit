@@ -155,16 +155,6 @@ Startup Building • Project Management • Community Marketing
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MrWhite4939&show_icons=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWhite4939&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="50">
