@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Devansh%20V%20Purohit&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🚀%20Undergraduate%20Builder%20|%20AI%20%26%20Cybersecurity%20Enthusiast%20|%20Founder%20🚀&descAlignY=55&descSize=20"/>
-
-</div>
 
 <div align="center">
 
