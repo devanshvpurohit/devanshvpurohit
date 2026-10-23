@@ -1,185 +1,186 @@
 <div align="center">
 
-<!-- Cyberpunk Terminal Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,40:161b22,100:00ff66&height=180&section=header&text=DEVANSH%20V%20PUROHIT&fontSize=38&fontAlignY=40&desc=%3E_%20Systems%20%E2%80%A2%20Binary%20Analysis%20%E2%80%A2%20Local%20AI%20%E2%80%A2%20Embedded%20ESP32&descAlignY=64&descSize=16&fontColor=00ff66" width="100%" />
+<!-- Marauder's Enchantment Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0c10,25:1a102f,70:2d124d,100:d4af37&height=220&section=header&text=%E2%9A%A1%20DEVANSH%20V%20PUROHIT%20%E2%9A%A1&fontSize=40&fontAlignY=38&desc=%22I%20solemnly%20swear%20that%20I%20am%20up%20to%20no%20good%20(and%20compiling%20with%20zero%20errors).%22&descAlignY=62&descSize=16&fontColor=ffd700" width="100%" />
 
 <br/>
 
-<!-- Hacker Terminal Typing SVG -->
+<!-- Magical Quill Typing Animation -->
 <a href="https://github.com/devanshvpurohit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00FF66&background=0D111700&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%24+devansh.init()+-+loading+agentic+kernel...;%24+cat+%2Fsys%2Fcore+-+AI%2FML+%7C+Reverse+Engineering+%7C+Robotics;%24+status%3A+Compiling+ambitious+software+at+scale;%24+hackathons.won%3A+%5B%22HakITxMRDU%22%2C+%22VNRVJIET%22%2C+%22NEC_AIR22%22%5D" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=20&duration=2800&pause=900&color=FFD700&center=true&vCenter=true&repeat=true&width=850&height=50&lines=Alohomora(binary)%3B+--+Unlocking+compiled+architectures...;Expecto+Patronum!+--+Warding+off+runtime+panics+%26+segfaults;The+Pensieve+OS%3A+Synthesizing+local+Ollama+AI+memories;Sorted+into+Ravenclaw+%7C+Order+of+the+Phoenix+Builder" alt="Magical Typing SVG" />
 </a>
 
+<br/>
+
 <p align="center">
-  <a href="https://linkedin.com/in/devansh-v-purohit-b38b64363"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dev7anshvpurohit@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/devanshvpurohit"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/LeetCode-400%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/System-ONLINE-00FF66?style=flat-square" />
+  <a href="https://linkedin.com/in/devansh-v-purohit-b38b64363"><img src="https://img.shields.io/badge/Owl_Post-LinkedIn-79529cf0?style=for-the-badge&logo=linkedin&logoColor=FFD700" /></a>
+  &nbsp;
+  <a href="mailto:dev7anshvpurohit@gmail.com"><img src="https://img.shields.io/badge/Howler-dev7anshvpurohit%40gmail.com-990000?style=for-the-badge&logo=gmail&logoColor=FFD700" /></a>
+  &nbsp;
+  <a href="https://github.com/devanshvpurohit"><img src="https://img.shields.io/badge/Ministry_Registry-GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Arithmancy-400%2B_LeetCode-D4AF37?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-### `// 01. SYSTEM SPECIFICATIONS & DIAGNOSTICS`
+### `📜 // THE HOGWARTS REGISTRY & WIZARDING DOSSIER`
 
-```bash
-┌──(devansh㉿arch-node)-[~]
-└─$ neofetch --stdout
-
-        /\              devansh@core-system
-       /  \            -------------------
-      /\   \           OS: Arch Linux / macOS Darwin (aarch64)
-     /      \          Host: Institute of Aeronautical Engineering (CSE AI&ML '27)
-    /   ,,   \         Kernel: Autonomous-Agent-v2026.10
-   /   |  |  -\        Uptime: 400+ LeetCode problems • 100+ GitHub Repos
-  /_-''    ''-_\       Shell: zsh 5.9 (agentic-mode)
-                       IDE: Neovim / VS Code / OL-Code (Ollama-Native)
-                       Primary Stack: TypeScript, Python, C++, Swift, Three.js
-                       Silicon / IoT: ESP32-CAM, PlatformIO, Logic Analyzers, PCBs
-                       Security & Systems: Binary Static/Dynamic Analysis, AES-256
+```yaml
+Wizard: "Devansh V Purohit"
+House: "Ravenclaw 🦅 (Wit, System Architecture, & Relentless Curiosity)"
+Academy: "Institute of Aeronautical Engineering (B.Tech CSE: AI & Machine Learning, 2023–2027)"
+Wand: "12¾\", Elder Wood with an Overclocked Dragon Heartstring core (C++ / TypeScript / Python)"
+Patronus: "Autonomous AI Agent running local neural inferences 🐺"
+Magical Disciplines:
+  - "Defense Against the Dark Bugs (Binary Reverse Engineering & Secure Protocols)"
+  - "Arithmancy & Spell Complexity (400+ LeetCode Algorithms Decoded)"
+  - "Transfiguration of Memory (Local-First Document RAG & Ollama OS)"
+  - "Enchanted Artifacts & Silicon (ESP32-CAM Streaming & Hardware Simulators)"
+Motto: "Wit beyond measure is man's greatest treasure... but shipped code is even better."
 ```
 
 ---
 
-### `// 02. CORE SUBSYSTEMS & SHIPPED REPOSITORIES`
+### `✨ // THE MARAUDER’S VAULT: ENCHANTED ARTIFACTS & SPELLS`
 
 <table>
   <thead>
     <tr>
-      <th width="35%"><b>Subsystem & Architecture</b></th>
-      <th width="45%"><b>Description & Functional Pipeline</b></th>
-      <th width="20%"><b>Status & Stack</b></th>
+      <th width="35%"><b>Magical Artifact / Repository</b></th>
+      <th width="45%"><b>Incantation & Enchantment Overview</b></th>
+      <th width="20%"><b>Tier & Spells</b></th>
     </tr>
   </thead>
   <tbody>
-    <!-- Subsystem 1 -->
+    <!-- Project 1 -->
     <tr>
       <td>
         <a href="https://github.com/devanshvpurohit/understand-binary">
-          <b>◈ understand-binary</b>
-        </a><br/>
-        <sub><code>BINARY RECONSTRUCTION ENGINE</code></sub>
+          <b>🗺️ The Marauder's Map of Binaries</b><br/>
+          <sub><code>understand-binary</code></sub>
+        </a>
       </td>
       <td>
-        Reverse engineers compiled binaries (Mach-O, ELF, PE, Electron ASAR) down to symbol callgraphs and cross-references, visualizing whole architectures as interactive knowledge graphs.
+        <i>"I reveal all call paths."</i> Casts deep disassembly charms on compiled Mach-O, ELF, and PE binaries, reconstructing dark symbols and assembly structures into an interactive topological knowledge graph.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/STATUS-SHIPPED-00FF66?style=flat-square" /><br/>
-        <sub><code>TypeScript • Reverse Eng</code></sub>
+        <img src="https://img.shields.io/badge/STATUS-SHIPPED-D4AF37?style=flat-square" /><br/>
+        <sub><code>TypeScript • Disassembly</code></sub>
       </td>
     </tr>
-    <!-- Subsystem 2 -->
+    <!-- Project 2 -->
     <tr>
       <td>
         <a href="https://github.com/devanshvpurohit/tradesphere">
-          <b>◈ TradeSphere</b>
-        </a><br/>
-        <sub><code>FINTECH TRADING SIMULATOR</code></sub>
+          <b>🪙 The Gringotts Exchange Engine</b><br/>
+          <sub><code>TradeSphere</code></sub>
+        </a>
       </td>
       <td>
-        Institutional-grade paper trading simulation engine calibrated for Indian capital markets (NSE/BSE). Live ticker streaming, fast order execution ledger, and portfolio risk telemetry.
+        Institutional-grade paper trading simulation engine calibrated for Indian capital markets (NSE/BSE). Handles live order book spells, liquidity matching, and risk telemetry with lightning speed.
       </td>
       <td>
         <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF66?style=flat-square" /><br/>
-        <sub><code>Next.js • TypeScript</code></sub>
+        <sub><code>Next.js • FinTech Web</code></sub>
       </td>
     </tr>
-    <!-- Subsystem 3 -->
+    <!-- Project 3 -->
     <tr>
       <td>
         <a href="https://github.com/devanshvpurohit/OL-Code">
-          <b>◈ OL-Code</b>
-        </a><br/>
-        <sub><code>AUTONOMOUS AGENTIC IDE</code></sub>
+          <b>🪄 The Wandmaker's IDE</b><br/>
+          <sub><code>OL-Code</code></sub>
+        </a>
       </td>
       <td>
-        Privacy-first developer environment forked from VS Code, running autonomous multi-agent code orchestration powered completely by offline, local Ollama models.
+        A privacy-enchanted VS Code forge powered completely by local Ollama AI familiars. Multi-agent familiars cast autonomous refactoring and debugging spells with zero external cloud telemetry.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/STATUS-DEPLOYED-00FF66?style=flat-square" /><br/>
-        <sub><code>TypeScript • Ollama AI</code></sub>
-      </td>
-    </tr>
-    <!-- Subsystem 4 -->
-    <tr>
-      <td>
-        <a href="https://github.com/devanshvpurohit/esp32-circuit-simulator">
-          <b>◈ esp32-circuit-simulator</b>
-        </a><br/>
-        <sub><code>HARDWARE & LOGIC SIMULATOR</code></sub>
-      </td>
-      <td>
-        High-fidelity, browser-based circuit workspace dedicated to ESP32 systems. Real-time pinout routing, dynamic component state evaluation, and schematic validation.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/STATUS-STABLE-00FF66?style=flat-square" /><br/>
-        <sub><code>React • Vite • WebGL</code></sub>
-      </td>
-    </tr>
-    <!-- Subsystem 5 -->
-    <tr>
-      <td>
-        <a href="https://github.com/devanshvpurohit/smriti-os">
-          <b>◈ Smriti OS</b>
-        </a><br/>
-        <sub><code>LOCAL KNOWLEDGE OPERATING SYSTEM</code></sub>
-      </td>
-      <td>
-        Zero-telemetry neural operating system for local documents. Instant vector-indexed retrieval (RAG) and conversational context synthesis operating 100% on device.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/STATUS-SHIPPED-00FF66?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/STATUS-ENCHANTED-79529c?style=flat-square" /><br/>
         <sub><code>TypeScript • Local LLM</code></sub>
       </td>
     </tr>
-    <!-- Subsystem 6 -->
+    <!-- Project 4 -->
+    <tr>
+      <td>
+        <a href="https://github.com/devanshvpurohit/smriti-os">
+          <b>🔮 The Pensieve Operating System</b><br/>
+          <sub><code>smriti-os</code></sub>
+        </a>
+      </td>
+      <td>
+        Extracts, catalogs, and retrieves thoughts from complex documents using local neural embeddings. 100% offline document RAG acting as an impenetrable wizard's memory basin.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/STATUS-SHIPPED-D4AF37?style=flat-square" /><br/>
+        <sub><code>TypeScript • Neural RAG</code></sub>
+      </td>
+    </tr>
+    <!-- Project 5 -->
+    <tr>
+      <td>
+        <a href="https://github.com/devanshvpurohit/esp32-circuit-simulator">
+          <b>⚡ The Silicon Cauldron</b><br/>
+          <sub><code>esp32-circuit-simulator</code></sub>
+        </a>
+      </td>
+      <td>
+        Interactive browser-based ESP32 electronic workbench. Simulates component physics, pinout voltage currents, and circuit alchemy in real-time with responsive WebGL rendering.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF66?style=flat-square" /><br/>
+        <sub><code>React • Vite • ESP32</code></sub>
+      </td>
+    </tr>
+    <!-- Project 6 -->
     <tr>
       <td>
         <a href="https://github.com/devanshvpurohit/myowncctv">
-          <b>◈ myowncctv / 24-7 Camera</b>
-        </a><br/>
-        <sub><code>EMBEDDED VIDEO STREAMING</code></sub>
+          <b>👁️ Sneakoscope & Omnioculars</b><br/>
+          <sub><code>myowncctv / 24-7-camera</code></sub>
+        </a>
       </td>
       <td>
-        Hardware-level ESP32-CAM MJPEG streamer and local relay server. Low-latency edge dashboard with motion detection triggers and frame capture buffers.
+        Micro-controller surveillance network driven by ESP32-CAM. Real-time MJPEG live stream relay server, movement detection enchantments, and low-latency edge telemetry.
       </td>
       <td>
         <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF66?style=flat-square" /><br/>
-        <sub><code>C++ • ESP32 • Sockets</code></sub>
+        <sub><code>C++ • ESP32-CAM • Sockets</code></sub>
       </td>
     </tr>
-    <!-- Subsystem 7 -->
-    <tr>
-      <td>
-        <a href="https://github.com/devanshvpurohit/robotic-arm-3d">
-          <b>◈ robotic-arm-3d</b>
-        </a><br/>
-        <sub><code>3D KINEMATICS & CV TRACKING</code></sub>
-      </td>
-      <td>
-        Real-time 3D simulation of a multi-axis robotic arm with forward/inverse kinematics driven by optical computer vision hand-tracking (MediaPipe).
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/STATUS-SHIPPED-00FF66?style=flat-square" /><br/>
-        <sub><code>Three.js • MediaPipe</code></sub>
-      </td>
-    </tr>
-    <!-- Subsystem 8 -->
+    <!-- Project 7 -->
     <tr>
       <td>
         <a href="https://github.com/devanshvpurohit/PhoenixKeyboard">
-          <b>◈ PhoenixKeyboard</b>
-        </a><br/>
-        <sub><code>ON-DEVICE NLP KEYBOARD</code></sub>
+          <b>🔥 Order of the Phoenix Guardian</b><br/>
+          <sub><code>PhoenixKeyboard & App</code></sub>
+        </a>
       </td>
       <td>
-        Offline iOS custom keyboard framework equipped with localized natural language processing to detect self-harm distress indicators without transmitting keystrokes.
+        Privacy-first iOS keyboard charm engineered with on-device NLP. Silently guards users across all apps by detecting self-harm distress indicators and dispatching life-saving prompts without keystroke leakage.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/STATUS-PRODUCTION-00FF66?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/STATUS-DEFENSIVE-D4AF37?style=flat-square" /><br/>
         <sub><code>Swift • iOS • CoreML</code></sub>
+      </td>
+    </tr>
+    <!-- Project 8 -->
+    <tr>
+      <td>
+        <a href="https://github.com/devanshvpurohit/SURDAS">
+          <b>👓 The Sight of Mad-Eye Moody</b><br/>
+          <sub><code>SURDAS Assistive Vision</code></sub>
+        </a>
+      </td>
+      <td>
+        Offline computer vision and auditory guidance system assisting visually impaired people in navigating physical spaces through voice spatial awareness cues.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/STATUS-SHIPPED-00FF66?style=flat-square" /><br/>
+        <sub><code>Python • OpenCV • Voice</code></sub>
       </td>
     </tr>
   </tbody>
@@ -187,26 +188,26 @@
 
 ---
 
-### `// 03. TECH ARSENAL & PROTOCOLS`
+### `🧪 // POTIONS, CHARMS & SPELLBOOK (TECH MATRIX)`
 
 <div align="center">
 
 ```
-[SYSTEM LANGUAGES]
-├── High-Level Systems ── TypeScript • JavaScript • Python • Swift • Java
-└── Hardware & Kernels ── C • C++ • Embedded C • Assembly / Reverse Eng
+[THE CORE RUNES]
+├── High Incantations  ── TypeScript • JavaScript • Python • Swift • Java
+└── Machine Sorcery    ── C • C++ • Embedded C • x86/ARM Assembly
 
-[INTELLIGENCE & VISION]
-├── Neural Inferences  ── PyTorch • Ollama (Local LLMs) • HuggingFace • LangChain
-└── Computer Vision    ── OpenCV • MediaPipe Pose/Hand Tracking • WebGL • Three.js
+[CHARMS & TRANSFIGURATION]
+├── Neural Spells      ── PyTorch • Ollama (Local AI) • HuggingFace • LangChain
+└── Divination & Sight ── OpenCV • MediaPipe Pose/Hands • Three.js • WebGL
 
-[EMBEDDED & HARDWARE]
-├── Microcontrollers   ── ESP32 (S2/S3/CAM) • Arduino • STM32
-└── Tooling & Busses   ── PlatformIO • SPI / I2C / UART • Logic Analyzers • Circuit Simulation
+[ALCHEMICAL ARTIFACTS]
+├── Silicon & Cores    ── ESP32 (S2/S3/CAM) • Arduino • Micro-controllers
+└── Bus Protocols      ── PlatformIO • SPI • I2C • UART • Logic Analyzers
 
-[INFRASTRUCTURE & CRYPTO]
-├── DevOps & Runtime   ── Docker • Linux / POSIX • GitHub Actions • Node.js • Next.js
-└── Cryptography       ── AES-256-GCM • WebCrypto API • Binary Disassembly
+[DEFENSE AGAINST DARK ARTS]
+├── Cryptographic Wards ── AES-256-GCM • Web Crypto API • Binary Disassembly
+└── Magical Infra       ── Docker • Linux / POSIX • GitHub Actions • Next.js
 ```
 
 <br/>
@@ -219,53 +220,55 @@
 
 ---
 
-### `// 04. HACKATHONS & BENCHMARK AUDITS`
+### `🏆 // TRIWIZARD TOURNAMENTS & ORDERS OF MERLIN`
 
 ```bash
-$ git log --grep="award" --oneline
+$ spell-history --achievements --order-by=glory
 ```
-* 🏆 **WINNER [1st Place]** — `HakITxMRDU 2026` / MRDU Open Innovation
-* 🏆 **WINNER [1st Place]** — `VNRVJIET Hackathon`
-* 🎖️ **AIR 22 FINALIST** — `National Entrepreneurship Challenge (NEC) 2025` *(AIR 64 in 2024)*
-* 🚀 **TOP 10 FINALIST** — `BITS Pilani Innovation Conclave 2025`
-* 🥉 **3rd PLACE** — `Google TechSprint (IARE)`
-* ⚡ **ALGORITHMIC PROBLEM SOLVING** — `400+ LeetCode Solutions (Optimal Complexity)`
+
+* 🥇 **TRIWIZARD CHAMPION [1st Place]** — `HakITxMRDU 2026` / MRDU Open Innovation
+* 🥇 **QUIDDITCH CUP WINNER [1st Place]** — `VNRVJIET Hackathon`
+* 🎖️ **ORDER OF MERLIN [AIR 22 FINALIST]** — `National Entrepreneurship Challenge (NEC) 2025` *(AIR 64 in 2024)*
+* 🌟 **GREAT HALL FINALIST [Top 10]** — `BITS Pilani Innovation Conclave 2025`
+* 🥉 **MINISTRY RECOGNITION [3rd Place]** — `Google TechSprint (IARE)`
+* ⚡ **MASTER OF ARITHMANCY** — `400+ LeetCode Sorceries Solved with Optimal Space-Time Wards`
 
 ---
 
-### `// 05. TELEMETRY & RUNTIME METRICS`
+### `🔮 // MARAUDER'S TELEMETRY & RUNIC METRICS`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&show_icons=true&theme=tokyonight&hide_border=false&border_color=00FF66&bg_color=0d1117&text_color=c9d1d9&icon_color=00FF66&title_color=00FF66" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshvpurohit&layout=compact&theme=tokyonight&hide_border=false&border_color=00FF66&bg_color=0d1117&text_color=c9d1d9&title_color=00FF66" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshvpurohit&show_icons=true&theme=tokyonight&hide_border=false&border_color=D4AF37&bg_color=0b0c10&text_color=c9d1d9&icon_color=D4AF37&title_color=D4AF37" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshvpurohit&layout=compact&theme=tokyonight&hide_border=false&border_color=D4AF37&bg_color=0b0c10&text_color=c9d1d9&title_color=D4AF37" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshvpurohit&theme=tokyonight&hide_border=false&border=00FF66&background=0d1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="98.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshvpurohit&theme=tokyonight&hide_border=false&border_color=D4AF37&background=0b0c10&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="98.5%" />
 </div>
 
 ---
 
-### `// 06. SOCKET CONNECTION`
+### `🦉 // SEND AN OWL (CONNECTION DISPATCH)`
 
 <div align="center">
 
 ```
-$ ping -c 1 devanshvpurohit.live
-64 bytes from devansh: icmp_seq=1 ttl=64 time=0.042 ms
---- connection open: ready to collaborate on systems, AI & embedded projects ---
+$ send-owl --recipient="devanshvpurohit" --priority=high
+[Hedwig dispatched with encrypted parchment... Response latency: ~0.042 ms]
 ```
 
-<a href="https://linkedin.com/in/devansh-v-purohit-b38b64363"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/devansh-v-purohit-b38b64363"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFD700" /></a>
 &nbsp;
-<a href="mailto:dev7anshvpurohit@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:dev7anshvpurohit@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFD700" /></a>
 &nbsp;
-<a href="https://github.com/devanshvpurohit"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/devanshvpurohit"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=FFD700" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff66,60:161b22,100:0d1117&height=35&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,30:2d124d,75:1a102f,100:0b0c10&height=120&section=footer" width="100%" />
 
-<sub><code>devansh@system:~$ exit 0 // [Process Completed Successfully]</code></sub>
+### ⚡ *“Mischief Managed.”* ⚡
+
+<sub><code>devansh@hogwarts-core:~$ nox // [Lumos extinguished, binary running smoothly]</code></sub>
 
 </div>
